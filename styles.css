@@ -1,0 +1,41 @@
+body {
+    background: lightgrey;
+    margin: 0;
+}
+
+header {
+    background: white;
+    margin-bottom: 60px;
+    padding: 1px;
+
+}
+
+.post {
+    width: 500px;
+    margin: 30px auto;
+    background: white;
+}
+
+h1 {
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+img {
+width: 100%;
+}
+
+.postheader {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.photoComment {
+    padding: 5px;
+}
+
+.postDate {
+    color: gray;
+}
